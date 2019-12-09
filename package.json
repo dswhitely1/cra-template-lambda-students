@@ -1,6 +1,6 @@
 {
   "name": "cra-template-lambda-students",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CRA For Lambda Students",
   "main": "template.json",
   "keywords": [
