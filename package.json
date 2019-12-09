@@ -1,5 +1,5 @@
 {
-  "name": "lambda",
+  "name": "cra-template-lambda-students",
   "version": "1.0.0",
   "description": "CRA For Lambda Students",
   "main": "template.json",

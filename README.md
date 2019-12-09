@@ -2,7 +2,7 @@
 
 This is a base template for Lambda Students.
 
-Usage: ```npx create-react-app app-name --template labmda```
+Usage: ```npx create-react-app app-name --template labmda-students```
 
 It includes the following packages:
 - redux
